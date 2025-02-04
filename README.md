@@ -27,7 +27,7 @@ Using this template is easy.
 2. Press use this template button.
 3. Create your repository.
 4. Clone your repository.
-5. Rename package name from `dev.adryanev.template` to your liking.
+5. Rename package name from `com.cleanarchitect.template` to your liking.
 6. Rename the project name from `template` to your need.
 
 Snackbar Flash

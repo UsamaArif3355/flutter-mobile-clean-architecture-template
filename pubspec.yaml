@@ -7,13 +7,19 @@ environment:
   sdk: ">=3.6.0 <4.0.0"
 
 dependencies:
+  # A
+  # B
   bloc: ^8.1.4
+  # C
   change_case: ^2.1.0
   collection: ^1.19.1
   crypto: ^3.0.6
   cupertino_icons: ^1.0.8
+  # D
   dartz: ^0.10.1
+  # E
   equatable: ^2.0.7
+  # F
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.6
@@ -22,16 +28,48 @@ dependencies:
   flutter_native_splash: ^2.4.3
   flutter_screenutil: ^5.9.3
   formz: ^0.8.0
+  # G
   get_it: ^8.0.3
   go_router: ^14.6.2
   google_fonts: ^6.2.1
+  # H
+  # I
   injectable: ^2.5.0
   intl: ^0.20.1
+  # J
   json_annotation: ^4.9.0
+  # K
+  # L
+  # M
   meta: ^1.16.0
+  # N
+  # O
+  # P
+  # Q
+  # R
   rxdart: ^0.28.0
+  # S
   shared_preferences: ^2.3.4
+  # T
+  # U
   uuid: ^4.5.1
+  # V
+  # W
+  # X
+  # Y
+  # Z
+
+
+
+
+
+
+
+
+
+
+
+
 
 dev_dependencies:
   bloc_test: ^9.1.7

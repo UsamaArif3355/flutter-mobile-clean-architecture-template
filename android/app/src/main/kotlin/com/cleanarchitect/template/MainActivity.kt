@@ -1,4 +1,4 @@
-package dev.adryanev.template
+package com.cleanarchitect.template
 
 import io.flutter.embedding.android.FlutterActivity
 
