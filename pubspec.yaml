@@ -11,7 +11,7 @@ dependencies:
   # B
   bloc: ^8.1.4
   # C
-  change_case: ^2.1.0
+  change_case: ^2.2.0
   collection: ^1.19.1
   crypto: ^3.0.6
   cupertino_icons: ^1.0.8
