@@ -35,7 +35,7 @@ dependencies:
   # H
   # I
   injectable: ^2.5.0
-  intl: ^0.20.1
+  intl: ^0.20.2
   # J
   json_annotation: ^4.9.0
   # K
